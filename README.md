@@ -1,1 +1,1 @@
-# roderickspells.github.io
+theme: minima
